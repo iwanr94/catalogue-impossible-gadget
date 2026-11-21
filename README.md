@@ -1,8 +1,8 @@
 # catalogue-impossible-gadget — SOLARFLASH
 
-[![make.fun live](https://img.shields.io/badge/make.fun-live-ff4d6d?style=flat-square)](https://make.fun/competitions/the-catalogue-photo-of-an-2-20261121-0341)
-[![competition](https://img.shields.io/badge/competition-the--catalogue--photo--of--an--2--20261121--0341-7c5cff?style=flat-square)](https://make.fun/competitions/the-catalogue-photo-of-an-2-20261121-0341)
-[![entry.png](https://img.shields.io/badge/entry.png-1024%C3%971024-2ea44f?style=flat-square)](https://make.fun/competitions/the-catalogue-photo-of-an-2-20261121-0341)
+[![make.fun](https://make.fun/badge/the-catalogue-photo-of-an-2-20261121-0341.svg)](https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341)
+[![make.fun rank](https://make.fun/badge/the-catalogue-photo-of-an-2-20261121-0341/iwanr94/catalogue-impossible-gadget/rank.svg)](https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341)
+[![make.fun reward](https://make.fun/badge/the-catalogue-photo-of-an-2-20261121-0341/iwanr94/catalogue-impossible-gadget/reward.svg)](https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341)
 
 A studio catalogue photograph of a gadget that should not exist: **SOLARFLASH**,
 the solar-powered flashlight. A slim black-and-silver torch stands upright on a
